@@ -34,13 +34,15 @@ Educational institutions, corporate offices, government agencies, and healthcare
 ****The Board in Middle is ESP32 Dev Kit v1***
 
 ## Some Useful Links
-| Route                          | Description                         |
+| External Route                          | Description                         |
 |--------------------------------|-------------------------------------|
 | http://172.25.160.11:8788/     | **~HB6-RPI-ZERO-SERVER**            |
 | http://172.25.160.11:9022/     | **~HB6-NODE-DASHBOARD**             |
 | http://172.25.160.11:9022/update | **~HB6-NODE-OTA**                  |
 | http://172.25.224.11:9022/update | **~HB8-NODE-OTA**                  |
 | http://172.25.224.11:9022/     | **~HB8-NODE-DASHBOARD**            |
+| Internal Route                          | Description                         |
+|--------------------------------|-------------------------------------|
 | http://192.168.0.173:1880/     | **~HB6-RPI-ZERO-SERVER && CURRENTLY ALSO FOR THE HB8** |
 | http://192.168.0.107/          | **~HB6-NODE-DASHBOARD**             |
 | http://192.168.0.107/update    | **~HB6-NODE-OTA**                   |
