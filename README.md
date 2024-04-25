@@ -41,6 +41,8 @@ Educational institutions, corporate offices, government agencies, and healthcare
 | http://172.25.160.11:9022/update | **~HB6-NODE-OTA**                  |
 | http://172.25.224.11:9022/update | **~HB8-NODE-OTA**                  |
 | http://172.25.224.11:9022/     | **~HB8-NODE-DASHBOARD**            |
+
+
 | Internal Route                          | Description                         |
 |--------------------------------|-------------------------------------|
 | http://192.168.0.173:1880/     | **~HB6-RPI-ZERO-SERVER && CURRENTLY ALSO FOR THE HB8** |
