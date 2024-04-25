@@ -33,5 +33,17 @@ Educational institutions, corporate offices, government agencies, and healthcare
 ![Screenshot 2024-02-14 143443](https://hackmd.io/_uploads/rk-C1Icop.png)
 ****The Board in Middle is ESP32 Dev Kit v1***
 
-## After you Done with the Hardware Part
+## Some Useful Links
+| Route                          | Description                         |
+|--------------------------------|-------------------------------------|
+| http://172.25.160.11:8788/     | **~HB6-RPI-ZERO-SERVER**            |
+| http://172.25.160.11:9022/     | **~HB6-NODE-DASHBOARD**             |
+| http://172.25.160.11:9022/update | **~HB6-NODE-OTA**                  |
+| http://172.25.224.11:9022/update | **~HB8-NODE-OTA**                  |
+| http://172.25.224.11:9022/     | **~HB8-NODE-DASHBOARD**            |
+| http://192.168.0.173:1880/     | **~HB6-RPI-ZERO-SERVER && CURRENTLY ALSO FOR THE HB8** |
+| http://192.168.0.107/          | **~HB6-NODE-DASHBOARD**             |
+| http://192.168.0.107/update    | **~HB6-NODE-OTA**                   |
+| http://192.168.0.107/          | **~HB8-NODE-DASHBOARD**             |
+| http://192.168.0.107/update    | **~HB8-NODE-OTA**                   |
 
