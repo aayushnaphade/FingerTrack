@@ -218,7 +218,7 @@
         "type": "comment",
         "z": "afec3cf4e98581db",
         "name": "",
-        "info": "# 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  github token\n\n172.25.160.11:8788 ~ severs settings\n172.25.160.11:9022 ~ firmware upload\npasswd Ayushnaphade1@\nuser spark //for firmware update\nuser admin for nodered",
+        "info": " nodered",
         "x": 200,
         "y": 400,
         "wires": []
@@ -435,7 +435,7 @@
         "type": "comment",
         "z": "db035e2cf01945b4",
         "name": "",
-        "info": "# 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  github token\n\n172.25.160.11:8788 ~ severs settings\n172.25.160.11:9022 ~ firmware upload\npasswd Ayushnaphade1@\nuser spark //for firmware update\nuser admin for nodered",
+        "info": "# nodered",
         "x": 280,
         "y": 320,
         "wires": []
