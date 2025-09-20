@@ -51,7 +51,7 @@ Educational institutions, corporate offices, government agencies, and healthcare
 | http://192.168.0.107/          | **~HB8-NODE-DASHBOARD**             |
 | http://192.168.0.107/update    | **~HB8-NODE-OTA**                   |
 
----
+
 This repository accompanies the paper:
 
 Aayush Naphade, Kaustubh Shivshankar Shejole. FingerTrack: Fingerprint-Based Automated Check-In/Check-Out Monitoring System. TechRxiv. September 15, 2025.
@@ -68,3 +68,4 @@ author={Naphade, Aayush and Shejole, Kaustubh Shivshankar},
 year={2025},
 month=sep }
 ```
+
